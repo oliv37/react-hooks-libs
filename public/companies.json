@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Enedis",
+    "logo": "",
+    "members": [
+      {
+        "name": "John Doe",
+        "role": "developer",
+        "startDate": "01/20/2014",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "lead developer",
+        "startDate": "02/10/2015",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "architect",
+        "startDate": "04/25/2008",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "scrum master",
+        "startDate": "25/10/2011",
+        "thumbnail": ""
+      }
+    ],
+    "salesman": {
+      "name": "Paul Smith",
+      "startDate": "06/20/2009",
+      "thumbnail": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "FDJ",
+    "logo": "",
+    "members": [
+      {
+        "name": "John Doe",
+        "role": "developer",
+        "startDate": "01/20/2014",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "lead developer",
+        "startDate": "02/10/2015",
+        "thumbnail": ""
+      }
+    ],
+    "salesman": {
+      "name": "Paul Smith",
+      "startDate": "06/20/2009",
+      "thumbnail": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Arte",
+    "logo": "",
+    "members": [
+      {
+        "name": "John Doe",
+        "role": "developer",
+        "startDate": "01/20/2014",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "lead developer",
+        "startDate": "02/10/2015",
+        "thumbnail": ""
+      }
+    ],
+    "salesman": {
+      "name": "Paul Smith",
+      "startDate": "06/20/2009",
+      "thumbnail": ""
+    }
+  },
+  {
+    "id": 4,
+    "name": "Carrefour",
+    "logo": "",
+    "members": [
+      {
+        "name": "John Doe",
+        "role": "developer",
+        "startDate": "01/20/2014",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "lead developer",
+        "startDate": "02/10/2015",
+        "thumbnail": ""
+      }
+    ],
+    "salesman": {
+      "name": "Paul Smith",
+      "startDate": "06/20/2009",
+      "thumbnail": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "Société Générale",
+    "logo": "",
+    "members": [
+      {
+        "name": "John Doe",
+        "role": "developer",
+        "startDate": "01/20/2014",
+        "thumbnail": ""
+      },
+      {
+        "name": "John Doe",
+        "role": "lead developer",
+        "startDate": "02/10/2015",
+        "thumbnail": ""
+      }
+    ],
+    "salesman": {
+      "name": "Paul Smith",
+      "startDate": "06/20/2009",
+      "thumbnail": ""
+    }
+  }
+]
