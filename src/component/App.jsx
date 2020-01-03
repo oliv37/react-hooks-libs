@@ -1,18 +1,10 @@
-import React, { useEffect } from 'react';
-import { useDispatch } from 'react-redux';
+import React from 'react';
 import { Switch, Route } from "react-router-dom";
-import axios from 'axios';
 import Home from './Home';
 import Company from './Company';
+import NoMatch from './NoMatch';
 
 function App() {
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    axios.get('/companies.json')
-      .then(response => dispatch({type: 'UPDATE_COMPANIES', payload: response.data}));
-  }, [dispatch]);
-
   return (
     <Switch>
       <Route exact path="/">
@@ -20,6 +12,9 @@ function App() {
       </Route>
       <Route path="/company/:companyId">
         <Company/>
+      </Route>
+      <Route>
+        <NoMatch/>
       </Route>
     </Switch>
   );
