@@ -5,34 +5,34 @@
     "logo": "",
     "workers": [
       {
-        "name": "John Doe",
+        "name": "Rohan Livingston",
         "role": "developer",
         "startDate": "01/20/2014",
-        "thumbnail": ""
+        "thumbnail": "https://pbs.twimg.com/profile_images/1055263632861343745/vIqzOHXj.jpg"
       },
       {
-        "name": "John Doe",
+        "name": "Pierre Greer",
         "role": "lead developer",
         "startDate": "02/10/2015",
-        "thumbnail": ""
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX172_CR0,0,172,256_AL_.jpg"
       },
       {
-        "name": "John Doe",
+        "name": "Harley Hale",
         "role": "architect",
         "startDate": "04/25/2008",
-        "thumbnail": ""
+        "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=a72ca28288878f8404a795f39642a46f"
       },
       {
-        "name": "John Doe",
+        "name": "Bruno Weeks",
         "role": "scrum master",
         "startDate": "25/10/2011",
-        "thumbnail": ""
+        "thumbnail": "https://randomuser.me/api/portraits/men/43.jpg"
       }
     ],
     "salesman": {
-      "name": "Paul Smith",
+      "name": "Frederick Howard",
       "startDate": "06/20/2009",
-      "thumbnail": ""
+      "thumbnail": "https://faces.design/faces/m/m15.png"
     }
   },
   {
@@ -41,22 +41,22 @@
     "logo": "",
     "workers": [
       {
-        "name": "John Doe",
+        "name": "Trevin Blackburn",
         "role": "developer",
         "startDate": "01/20/2014",
-        "thumbnail": ""
+        "thumbnail": "https://randomuser.me/api/portraits/men/29.jpg"
       },
       {
-        "name": "John Doe",
+        "name": "Axel Welch",
         "role": "lead developer",
         "startDate": "02/10/2015",
-        "thumbnail": ""
+        "thumbnail": "https://randomuser.me/api/portraits/men/36.jpg"
       }
     ],
     "salesman": {
-      "name": "Paul Smith",
+      "name": "James Cross",
       "startDate": "06/20/2009",
-      "thumbnail": ""
+      "thumbnail": "https://randomuser.me/api/portraits/men/1.jpg"
     }
   },
   {
@@ -65,22 +65,22 @@
     "logo": "",
     "workers": [
       {
-        "name": "John Doe",
+        "name": "Edwin Huff",
         "role": "developer",
         "startDate": "01/20/2014",
-        "thumbnail": ""
+        "thumbnail": "https://faces.design/faces/m/m14.png"
       },
       {
-        "name": "John Doe",
+        "name": "Rowan Dyer",
         "role": "lead developer",
         "startDate": "02/10/2015",
-        "thumbnail": ""
+        "thumbnail": "https://faces.design/faces/m/m2.png"
       }
     ],
     "salesman": {
-      "name": "Paul Smith",
+      "name": "Joe Esparza",
       "startDate": "06/20/2009",
-      "thumbnail": ""
+      "thumbnail": "https://faces.design/faces/m/m24.png"
     }
   },
   {
@@ -89,22 +89,22 @@
     "logo": "",
     "workers": [
       {
-        "name": "John Doe",
+        "name": "David Price",
         "role": "developer",
         "startDate": "01/20/2014",
-        "thumbnail": ""
+        "thumbnail": "https://pbs.twimg.com/profile_images/1056223701455265793/6DYY3xMv.jpg"
       },
       {
-        "name": "John Doe",
+        "name": "Jakob King",
         "role": "lead developer",
         "startDate": "02/10/2015",
-        "thumbnail": ""
+        "thumbnail": "https://pbs.twimg.com/profile_images/1157046181698011136/xZ4wg2Xj.jpg"
       }
     ],
     "salesman": {
-      "name": "Paul Smith",
+      "name": "Cristofer Obrien",
       "startDate": "06/20/2009",
-      "thumbnail": ""
+      "thumbnail": "https://pbs.twimg.com/profile_images/1060388713010741248/bUkmHPKs.jpg"
     }
   },
   {
@@ -113,22 +113,16 @@
     "logo": "",
     "workers": [
       {
-        "name": "John Doe",
+        "name": "Ernest Peterson",
         "role": "developer",
         "startDate": "01/20/2014",
-        "thumbnail": ""
-      },
-      {
-        "name": "John Doe",
-        "role": "lead developer",
-        "startDate": "02/10/2015",
-        "thumbnail": ""
+        "thumbnail": "https://pbs.twimg.com/profile_images/1054434556156162054/1H_7AxP0.jpg"
       }
     ],
     "salesman": {
-      "name": "Paul Smith",
+      "name": "Joel Spencer",
       "startDate": "06/20/2009",
-      "thumbnail": ""
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX172_CR0,0,172,256_AL_.jpg"
     }
   }
 ]

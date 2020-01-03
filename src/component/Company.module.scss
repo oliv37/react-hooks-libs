@@ -1,0 +1,17 @@
+.companyTitle {
+    font-family: 'Stoke', serif;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.companyContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: 3rem;
+    width: 90%;
+    max-width: 80rem;
+}
+  
