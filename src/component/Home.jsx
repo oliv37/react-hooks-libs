@@ -6,7 +6,7 @@ function Home() {
   const companies = useSelector(state => state.companies);
   return companies.map(company => (
     <div key={company.id}>
-      <Link to={`/company/${company.id}`}>{company.name} test </Link>
+      <Link to={`/company/${company.id}`}>{company.name} </Link>
     </div>
   ));
 }
