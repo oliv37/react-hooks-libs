@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Enedis",
     "logo": "",
-    "members": [
+    "workers": [
       {
         "name": "John Doe",
         "role": "developer",
@@ -39,7 +39,7 @@
     "id": 2,
     "name": "FDJ",
     "logo": "",
-    "members": [
+    "workers": [
       {
         "name": "John Doe",
         "role": "developer",
@@ -63,7 +63,7 @@
     "id": 3,
     "name": "Arte",
     "logo": "",
-    "members": [
+    "workers": [
       {
         "name": "John Doe",
         "role": "developer",
@@ -87,7 +87,7 @@
     "id": 4,
     "name": "Carrefour",
     "logo": "",
-    "members": [
+    "workers": [
       {
         "name": "John Doe",
         "role": "developer",
@@ -111,7 +111,7 @@
     "id": 5,
     "name": "Société Générale",
     "logo": "",
-    "members": [
+    "workers": [
       {
         "name": "John Doe",
         "role": "developer",
