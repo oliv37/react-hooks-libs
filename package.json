@@ -18,6 +18,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "node-sass": "^4.13.0",
     "react-scripts": "latest"
   },
   "browserslist": {

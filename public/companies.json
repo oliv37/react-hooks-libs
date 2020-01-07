@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Enedis",
-    "logo": "",
+    "logo": "./img/enedis.png",
     "workers": [
       {
         "name": "John Doe",
@@ -38,7 +38,7 @@
   {
     "id": 2,
     "name": "FDJ",
-    "logo": "",
+    "logo": "./img/fdj.png",
     "workers": [
       {
         "name": "John Doe",
@@ -62,7 +62,7 @@
   {
     "id": 3,
     "name": "Arte",
-    "logo": "",
+    "logo": "./img/arte.png",
     "workers": [
       {
         "name": "John Doe",
@@ -86,7 +86,7 @@
   {
     "id": 4,
     "name": "Carrefour",
-    "logo": "",
+    "logo": "./img/carrefour.png",
     "workers": [
       {
         "name": "John Doe",
@@ -110,7 +110,7 @@
   {
     "id": 5,
     "name": "Société Générale",
-    "logo": "",
+    "logo": "./img/sg.png",
     "workers": [
       {
         "name": "John Doe",
